@@ -66,7 +66,7 @@ Run this command in the directory of the repo
 ```bash
 pytest
 ```
-![test pass](Screenshot from 2025-10-20 14-32-59.png)
+![test_pass](test_pass.png)
 ## Usage
 
 Run the script with Python:
