@@ -67,6 +67,7 @@ Run this command in the directory of the repo
 pytest
 ```
 ![test pass](test_pass.png)
+
 ## Usage
 
 Run the script with Python:
