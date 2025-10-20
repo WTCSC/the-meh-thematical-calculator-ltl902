@@ -25,7 +25,7 @@ humorous remarks when you make mistakes.
 3.  You enter two numbers.
 4.  The calculator performs the operation and displays the result.
 5.  If you mess up too many times (3 invalid inputs), the calculator
-    rage-quits on you.
+    rage-quits on you.>
 
 ------------------------------------------------------------------------
 
@@ -60,6 +60,12 @@ flowchart TD
 ```
 
 ------------------------------------------------------------------------
+
+## Testing
+Run this command in the directory of the repo
+```bash
+pytest
+```
 
 ## Usage
 
